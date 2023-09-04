@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 I am Jehan Ibrahem, a passionate individual who finds joy in both creating things and problem-solving. Throughout my life, these two big passions have been the driving forces behind my personal and professional endeavors. 
+
 From a young age, I discovered the thrill of bringing my ideas to life through various creative outlets. Specifically through crafting DIY projects, I found solace in the act of creation. As I grew older, this innate desire to build and innovate led me to explore slightly differing fields, seeking new ways to express my creativity.
 Simultaneously, I developed a strong inclination towards problem-solving. Challenges, puzzles, patterns, numbers, and complexities fascinated me. I have demonstrated an exceptional aptitude for mathematics, consistently surpassing expectations and excelling in complex problem-solving.
+
 I have engaged in several software projects, both individually and as part of a team. These experiences not only sharpened my technical abilities but also taught me the value of teamwork, communication, and adaptability. Collaborating with diverse minds exposed me to different perspectives, enabling me to refine my problem-solving skills and see challenges from various angles.
 
   Reach Me:
